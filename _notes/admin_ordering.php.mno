@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ordering" value="name:order_no;datatype:int,name:s_matric;datatype:string,name:menu_id;datatype:string,name:quantity;datatype:int,name:date;datatype:date,name:time;datatype:time,name:order_status;datatype:string,name:order_note;datatype:string" />
+	<infoitem key="UD_Admin" value="name:a_id;datatype:string,name:a_name;datatype:string,name:a_phone;datatype:string,name:a_pass;datatype:string,name:a_categoryid;datatype:int" />
+</info>
